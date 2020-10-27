@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>200676ed-42ce-4748-959c-8a4b3b66af10</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>91da9ebd-aa78-41ca-aef1-09181bbdd754</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>05fac924-784d-4057-8064-17cc31208a92</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
